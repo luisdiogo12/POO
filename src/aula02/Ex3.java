@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Escreva um programa que calcule a energia necessária para aquecer a água desde uma 
 //temperatura inicial até uma temperatura final. O programa deve ler a quantidade de água M 

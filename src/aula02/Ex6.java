@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Escreva um programa que dado um tempo em segundos lido do teclado, mostre na consola o 
 //tempo com o formato hh:mm:ss. Sugestão: para calcular o resto da divisão inteira existe o operador %.

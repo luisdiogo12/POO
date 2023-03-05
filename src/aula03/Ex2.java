@@ -1,4 +1,4 @@
-package aula3;
+package aula03;
 
 //Um fundo de investimento fornece uma taxa de juros mensal fixa, que acumula com o saldo 
 //anterior do investimento (juros rendem juros). Escreva um programa em Java que peça ao 

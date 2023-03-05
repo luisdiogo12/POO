@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Pretende-se calcular a velocidade média de transporte do ponto A para o ponto B sendo a 
 //viagem feita em duas etapas, cujo comprimento pode ser diferente. Escreva um programa que 

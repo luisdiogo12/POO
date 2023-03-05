@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Escreva um programa em Java que represente dois pontos, p1 e p2, pedindo que o utilizador 
 //introduza as suas coordenadas reais x e y. Calcule e imprima a distância entre os pontos.

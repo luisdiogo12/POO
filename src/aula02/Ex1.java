@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Escreva um programa que lê um valor real que representa uma distância em quilómetros, 
 //converte-o para milhas e imprime o resultado. A fórmula de conversão é a seguinte: Milhas = 

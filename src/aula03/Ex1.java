@@ -1,4 +1,4 @@
-package aula3;
+package aula03;
 
 //Escreva um programa que leia do teclado um número inteiro positivo e devolva a soma de 
 //todos os números primos até esse valor (inclusive). Repare que deve validar o valor de 

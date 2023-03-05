@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Escreva um programa que lê um valor real que especifica temperatura em graus Célsius, 
 //converte-o para graus Fahrenheit e imprime o resultado. A fórmula de conversão de graus 

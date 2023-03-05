@@ -1,4 +1,4 @@
-package aula3;
+package aula03;
 
 //Escreva um programa que leia do teclado um número inteiro positivo e determine se o
 //número introduzido é um número primo. Um número natural é um número primo quando

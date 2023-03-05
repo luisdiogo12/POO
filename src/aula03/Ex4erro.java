@@ -1,4 +1,4 @@
-package aula3;
+package aula03;
 
 /*
 Implemente um programa que leia do teclado as notas da componente prática (notaP) e 

@@ -1,4 +1,4 @@
-package aula2;
+package aula02;
 
 //Dado um triângulo retângulo de catetos A e B e hipotenusa C, escreva um programa que leia 
 //o valor dos catetos e determine o valor da hipotenusa, bem como o valor do ângulo (em 
