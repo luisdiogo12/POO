@@ -41,5 +41,5 @@ public class Ex3 {
         } while (game == "S" || game == "Sim");
         sc.close();
     }
-
+    
 }
