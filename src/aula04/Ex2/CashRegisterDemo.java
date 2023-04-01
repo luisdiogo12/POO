@@ -31,7 +31,7 @@ class Product {
 
 class CashRegister {
 
-  private Product[] products;
+  private Product[] products; //vetor de objetos da classe Product(name,price,quantity)
 
   public void addProduct(Product product) {
     if (products == null) {
